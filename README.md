@@ -1,6 +1,6 @@
-Certainly! Here's a sample content for your README file:
 
-```markdown
+live demo [here](https://todo-list102-ts.netlify.app/).
+
 # Todo List App (Typescript)
 
 This is a simple Todo List application built using TypeScript. You can view the live demo [here](https://todo-list102-ts.netlify.app/).
