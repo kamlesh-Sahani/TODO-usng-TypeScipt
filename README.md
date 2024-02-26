@@ -1,9 +1,9 @@
+ live demo https://todo-list102-ts.netlify.app/.
 
-live demo [here](https://todo-list102-ts.netlify.app/).
 
-# Todo List App (Typescript)
+# Todo List App (TypeScript)
 
-This is a simple Todo List application built using TypeScript. You can view the live demo [here](https://todo-list102-ts.netlify.app/).
+This repository contains a Todo List application developed using TypeScript. You can check out the live demo [here](https://todo-list102-ts.netlify.app/).
 
 ## Features
 
@@ -26,13 +26,13 @@ To run this project locally, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/todo-list-typescript.git
+   git clone https://github.com/kamlesh-Sahani/TODO-usng-TypeScipt.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd todo-list-typescript
+   cd TODO-usng-TypeScipt
    ```
 
 3. Open the `index.html` file in your preferred browser or set up a local server.
@@ -46,6 +46,3 @@ Contributions are welcome! Feel free to open issues or submit pull requests.
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-```
-
-Make sure to replace "your-username" with your actual GitHub username. You can also add specific details about your code structure, any installation steps, or additional configurations based on your project's requirements.
